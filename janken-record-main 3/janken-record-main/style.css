@@ -1,0 +1,66 @@
+.class1 {
+  position:relative;
+  top: 30px;
+  left:0px;
+  width: 600px;
+}
+
+.class2 {
+  position:relative;
+  top: -30px;
+  left:100px;
+  width: 450px;
+}
+
+
+.box2 {
+  font-family: serif;
+  position:relative;
+  top: -190px;
+  left: 720px
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    font-weight: bold;
+    color: #ffffff;/*文字色*/
+    background: #FFF;
+    border: solid 3px #6091d3;/*線*/
+    border-radius: 10px;/*角の丸み*/
+    background: #000000;/*背景色*/
+     border: double 5px #ffffff;
+}
+.box2 p {
+    margin: 0;
+    padding: 0;
+}
+
+h2{
+	position:relative;
+  top: -400px;
+  left: 720px
+}
+
+td img{
+	position:relative;
+  top: -458px;
+  left: 738px;
+  width:120px;
+  height:120px;
+}
+
+td2 img{
+	position:relative;
+  top: -500px;
+  left: 800px;
+  width:120px;
+  height:120px;
+}
+
+#result{
+  font-family: serif;
+position:absolute;
+ font-weight: bold;
+  top: 545px;
+  left: 1000px;
+  color: #000;
+  z-index: 100;
+}
